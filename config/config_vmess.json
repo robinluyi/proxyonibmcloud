@@ -1,6 +1,6 @@
 {
   "inbounds": [{
-      "port": 8088, // 监听端口
+      "port": 8088, 
       "protocol": "http",
       "settings": {
         "timeout:":0,
