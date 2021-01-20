@@ -1,19 +1,5 @@
 {
-  "inbounds": [{
-      "port": 8088, 
-      "protocol": "http",
-      "settings": {
-        "timeout:":0,
-        "accounts":[
-          {
-            "user":"hpusername",
-            "pass":"dxfge5t633rty54u7ryjr75s"
-          }
-        ],
-        "allowTransparent":false,
-        "userLevel":0
-      }
-    },
+  "inbounds": [
     {
       "sniffing": {
         "enabled": true,
